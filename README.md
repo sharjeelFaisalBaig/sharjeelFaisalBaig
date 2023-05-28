@@ -2,39 +2,39 @@
 I bring a wide skill set in web development to the table with over 6 years of expertise. I am proficient in several different fields:
 
 Front-End:
-✅ HTML
-✅ CSS
-✅ Bootstrap
-✅ JavaScript
-✅ ES21 ECMAScript 21
-✅ jQuery
-✅ WordPress
-✅ WordPress (Advanced)
-✅ API Integration
-✅ PSD to HTML
-✅ PSD to WordPress
+HTML, 
+CSS, 
+Bootstrap, 
+JavaScript, 
+ES21 ECMAScript 21, 
+jQuery, 
+WordPress, 
+WordPress (Advanced), 
+API Integration, 
+PSD to HTML, 
+PSD to WordPress, 
 
 Back-End:
-✅ Laravel
-✅ Database (MySQL, MSSQL, Postgres)
-✅ Web Scraping
-✅ WordPress Themes & Plugins Customization
-✅ WordPress Designing
-✅ Web API & Services Development & Integration
-✅ Payment Gateway Integration
+Laravel, 
+Database (MySQL, MSSQL, Postgres), 
+Web Scraping, 
+WordPress Themes & Plugins Customization, 
+WordPress Designing, 
+Web API & Services Development & Integration, 
+Payment Gateway Integration, 
 
 DevOps:
-✅ AWS
-✅ EC2
-✅ S3 Bucket
-✅ Elastic Beanstalk
-✅ RDS (MySQL, Postgres)
-✅ Domain Management
-✅ DNS & Nameservers (NS) Management
-✅ Shared, Dedicated & Cloud Servers Management
-✅ WHM
-✅ VPS Management
-✅ cPanel Management
+AWS, 
+EC2, 
+S3 Bucket, 
+Elastic Beanstalk, 
+RDS (MySQL, Postgres), 
+Domain Management, 
+DNS & Nameservers (NS) Management, 
+Shared, Dedicated & Cloud Servers Management, 
+WHM, 
+VPS Management, 
+cPanel Management, 
 
 I have a solid understanding of front-end technologies including HTML, CSS, Bootstrap, and JavaScript, and I can use these skills to create user interfaces that are beautiful and responsive to your designs. Additionally, I can develop reliable back-end solutions with smooth functionality and effective database administration thanks to my skill with frameworks like Laravel.
 
